@@ -1,0 +1,12 @@
+{
+    "name": "tallerts",
+    "version": "1.0.0",
+    "description": "Proyecto de gestión de series con TypeScript (versión básica)",
+    "scripts": {
+      "build": "tsc"
+    },
+    "devDependencies": {
+      "typescript": "^4.9.5"
+    }
+  }
+  
